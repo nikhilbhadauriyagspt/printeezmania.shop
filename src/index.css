@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Poppins", sans-serif;
+}
+
+@theme {
+  --font-urbanist: "Poppins", sans-serif;
+  --font-snpro: "Poppins", sans-serif;
+  --color-brand: #D97706;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FFFEF7;
+}

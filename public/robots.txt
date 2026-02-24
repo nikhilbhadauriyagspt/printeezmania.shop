@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://printeezmania.shop/sitemap.xml
