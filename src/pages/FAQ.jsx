@@ -142,7 +142,7 @@ export default function FAQ() {
                   <div className="h-11 w-11 rounded-2xl bg-white/5 flex items-center justify-center border border-white/5"><MapPin size={18} /></div>
                   <div>
                     <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">Authorized Hub</p>
-                    <p className="text-sm font-bold text-white leading-none">Las Vegas, NV 89102</p>
+                    <p className="text-sm font-bold text-white leading-none">1327 Eraste Landry Rd, Lafayette, LA 70506, USA</p>
                   </div>
                 </div>
               </div>

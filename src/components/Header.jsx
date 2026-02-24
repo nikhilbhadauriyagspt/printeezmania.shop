@@ -41,12 +41,11 @@ export default function Header() {
     return location.pathname === path;
   };
 
-    const navItemClass = (path, category = null) => {
-      const active = isActive(path, category);
-      return `text-sm font-semibold transition-all relative px-4 py-2 rounded-lg inline-flex items-center justify-center z-10 ${
-        active ? 'text-white shadow-sm' : 'text-slate-600 hover:text-[#007DBA] hover:bg-slate-50'
+  const navItemClass = (path, category = null) => {
+    const active = isActive(path, category);
+    return `text-sm font-semibold transition-all relative px-4 py-2 rounded-lg inline-flex items-center justify-center z-10 ${active ? 'text-white shadow-sm' : 'text-slate-600 hover:text-[#007DBA] hover:bg-slate-50'
       }`;
-    };
+  };
 
   const activeIndicator = (path, category = null) => {
     if (!isActive(path, category)) return null;
@@ -158,7 +157,10 @@ export default function Header() {
       <div className="bg-slate-900 border-b border-white/5 py-2 hidden md:block">
         <div className="container mx-auto px-4 flex justify-between items-center text-[11px] font-medium text-slate-400">
           <div className="flex items-center gap-6">
-            <span className="flex items-center gap-1.5 text-white/90"><CheckCircle2 size={12} className="text-[#007DBA]" /> HP Authorized Partner</span>
+            <span className="flex items-center gap-2 text-white/90">
+              <img src="/brands/hp.png" alt="HP" className="h-5 w-auto  object-contain" />
+              HP Authorized Partner
+            </span>
             <span className="hidden lg:inline-flex items-center gap-1.5 text-slate-500 font-bold border-l border-slate-700 pl-6 uppercase tracking-wider">A subsidiary of Primefix Solutions</span>
             <span className="flex items-center gap-1.5"><CheckCircle2 size={12} className="text-[#007DBA]" /> Free Express Shipping Over $150</span>
           </div>

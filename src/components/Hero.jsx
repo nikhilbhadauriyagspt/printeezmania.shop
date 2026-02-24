@@ -24,7 +24,7 @@ const slides = [
     subtitle: "Precision engineering for HP.",
     desc: "Guarantee peak performance and vibrant results with 100% original HP supplies and cartridges.",
     image: banner2,
-    link: "/shop?category=accessories"
+    link: "/shop?category=printer-accessories"
   },
   {
     id: 3,
@@ -160,7 +160,7 @@ export default function Hero() {
                 <h3 className="text-xl font-bold">Fast <br /> Delivery</h3>
                 <p className="text-xs text-white/60 font-medium">Get your supplies delivered within 24 hours.</p>
               </div>
-              <Link to="/shop?category=accessories" className="relative z-10 flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-[#007DBA] group-hover:gap-3 transition-all">
+              <Link to="/shop?category=printer-accessories" className="relative z-10 flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-[#007DBA] group-hover:gap-3 transition-all">
                 Order Supplies <ArrowRight size={14} />
               </Link>
               {/* Decorative Glow */}

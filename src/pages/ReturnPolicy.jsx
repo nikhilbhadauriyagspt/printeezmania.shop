@@ -23,8 +23,8 @@ export default function ReturnPolicy() {
           PrinteezMania LLC<br />
           Attn: Returns<br />
           RMA #<br />
-          3140 Polaris Ave Ste 1<br />
-          Las Vegas, NV 89102<br />
+          1327 Eraste Landry Rd, <br />
+          Lafayette, LA 70506, USA<br />
           United States
         </address>
         <p className="mt-6 text-amber-600 font-bold capitalize text-xs tracking-widest">

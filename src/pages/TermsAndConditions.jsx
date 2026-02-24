@@ -11,7 +11,7 @@ export default function TermsAndConditions() {
       <section>
         <h2>AGREEMENT TO OUR LEGAL TERMS</h2>
         <p>
-          We are PrinteezMania LLC ("Company," "we," "us," "our"), a company registered in Nevada, United States at 3140 Polaris Ave Ste 1, Las Vegas, NV 89102.
+          We are PrinteezMania LLC ("Company," "we," "us," "our"), a company registered in Louisiana, United States at 1327 Eraste Landry Rd, Lafayette, LA 70506.
         </p>
         <p>
           We operate the website <a href="http://printeezmania.shop/">http://printeezmania.shop/</a> (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
@@ -20,7 +20,7 @@ export default function TermsAndConditions() {
           PrinteezMania Solutions is your trusted destination for authentic, high-performance printers and printing accessories from HP and other leading technology brands.
         </p>
         <p>
-          You can contact us by email at <a href="mailto:info@printeezmania.shop">info@printeezmania.shop</a>, or by mail to 3140 Polaris Ave Ste 1, Las Vegas, NV 89102, United States.
+          You can contact us by email at <a href="mailto:info@printeezmania.shop">info@printeezmania.shop</a>, or by mail to 1327 Eraste Landry Rd, Lafayette, LA 70506, United States.
         </p>
         <p>
           These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and PrinteezMania LLC, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. <strong>IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.</strong>
@@ -371,7 +371,7 @@ export default function TermsAndConditions() {
             <p className="text-[#4A3728] font-bold">PrinteezMania LLC</p>
             <p>Authorised HP Partner</p>
             <p>3140 Polaris Ave Ste 1</p>
-            <p>Las Vegas, NV 89102</p>
+            <p>1327 Eraste Landry Rd, Lafayette, LA 70506, USA</p>
             <p>United States</p>
             <p className="pt-4 text-amber-600 font-bold lowercase">Email: info@printeezmania.shop</p>
           </address>

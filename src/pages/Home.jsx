@@ -62,12 +62,11 @@ export default function Home() {
 
   return (
     <div className="bg-[#F8FAFC] font-sans overflow-x-hidden text-slate-900">
-      <SEO 
-        title="Authorized HP Partner | Premium Printers, Genuine Ink & Toner" 
-        description="Shop authorized HP printers, genuine ink, toner, and premium tech accessories at PrinteezMania. Your trusted partner for high-performance printing solutions in Las Vegas, IL and nationwide."
-        keywords="HP Authorized Partner, Buy HP Printers Online, Genuine HP Ink and Toner, HP LaserJet, HP OfficeJet, Printer Accessories, Business Printing Solutions, Las Vegas Tech Store"
-      />
-      
+            <SEO
+              title="Authorized HP Partner | Premium Printers, Genuine Ink & Toner"
+              description="Shop authorized HP printers, genuine ink, toner, and premium tech accessories at PrinteezMania. Your trusted partner for high-performance printing solutions in Lafayette, LA and nationwide."
+              keywords="HP Authorized Partner, Buy HP Printers Online, Genuine HP Ink and Toner, HP LaserJet, HP OfficeJet, Printer Accessories, Business Printing Solutions, Lafayette Tech Store"
+            />      
       {/* 1. HERO */}
       <Hero products={data.all} />
 

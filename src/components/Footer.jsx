@@ -99,7 +99,7 @@ export default function Footer() {
               </div>
 
               <div className="space-y-4">
-                <div className="flex items-center gap-4">
+                <div className="flex hidden items-center gap-4">
                   <div className="w-10 h-10 rounded-xl bg-slate-50 border border-slate-100 flex items-center justify-center text-[#007DBA]">
                     <Phone size={18} />
                   </div>
@@ -108,7 +108,7 @@ export default function Footer() {
                     <p className="text-sm font-bold text-slate-900">+1 (800) 123-4567</p>
                   </div>
                 </div>
-                <div className=" hidden flex items-center gap-4">
+                <div className="  flex items-center gap-4">
                   <div className="w-10 h-10 rounded-xl bg-slate-50 border border-slate-100 flex items-center justify-center text-[#007DBA]">
                     <MapPin size={18} />
                   </div>

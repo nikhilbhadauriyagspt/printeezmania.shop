@@ -287,8 +287,8 @@ export default function PrivacyPolicy() {
         <address className="not-italic text-slate-700 font-bold leading-relaxed">
           PrinteezMania LLC<br />
           Authorised HP Partner<br />
-          3140 Polaris Ave Ste 1<br />
-          Las Vegas, NV 89102<br />
+          1327 Eraste Landry Rd, <br />
+          Lafayette, LA 70506, USA<br />
           United States
         </address>
       </div>

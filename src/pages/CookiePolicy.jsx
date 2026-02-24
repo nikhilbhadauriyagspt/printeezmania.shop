@@ -144,8 +144,8 @@ export default function CookiePolicy() {
         <address className="not-italic text-slate-700 font-bold leading-relaxed space-y-2">
           <p>PrinteezMania LLC</p>
           <p>Authorised HP Partner</p>
-          <p>3140 Polaris Ave Ste 1</p>
-          <p>Las Vegas, NV 89102</p>
+          <p>1327 Eraste Landry Rd</p>
+          <p>Lafayette, LA 70506</p>
           <p>United States</p>
           <p className="pt-4 flex items-center gap-3 text-amber-600">info@printeezmania.shop</p>
         </address>

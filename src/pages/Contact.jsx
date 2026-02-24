@@ -96,14 +96,14 @@ export default function Contact() {
                 <MapPin size={24} strokeWidth={1.5} />
               </div>
               <h4 className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em] mb-3">Global Hub</h4>
-              <p className="text-lg font-black text-slate-900 group-hover:text-[#007DBA] transition-colors">Las Vegas, NV</p>
-              <p className="text-[11px] font-bold text-slate-400 mt-2">3140 Polaris Ave Ste 1, 89102, USA</p>
+              <p className="text-lg font-black text-slate-900 group-hover:text-[#007DBA] transition-colors">Lafayette, LA</p>
+              <p className="text-[11px] font-bold text-slate-400 mt-2">1327 Eraste Landry Rd, 70506, USA</p>
             </div>
 
             {/* HP Trust Module */}
             <div className="p-12 rounded-[3rem] bg-[#0F172A] text-white relative overflow-hidden group shadow-2xl">
               <div className="absolute top-0 right-0 w-48 h-48 bg-[#007DBA]/10 blur-3xl rounded-full -mr-10 -mt-10 group-hover:bg-[#007DBA]/20 transition-colors duration-700" />
-              <img src="/brands/hp.png" alt="HP" className="h-10 w-auto object-contain mb-8" />
+              <img src="/brands/hp.png" alt="HP" className="h-18 w-auto object-contain mb-2" />
               <h4 className="text-xl font-black mb-3">Certified Support.</h4>
               <p className="text-sm font-medium text-slate-400 leading-relaxed">Our experts are factory-trained by HP to provide absolute technical accuracy.</p>
             </div>

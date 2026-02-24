@@ -50,10 +50,10 @@ export default function SEO({ title, description, keywords, schemaType = "Websit
       "description": finalDesc,
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "3140 Polaris Ave Ste 1",
-        "addressLocality": "Las Vegas",
-        "addressRegion": "NV",
-        "postalCode": "89102",
+        "streetAddress": "1327 Eraste Landry Rd",
+        "addressLocality": "Lafayette",
+        "addressRegion": "LA",
+        "postalCode": "70506",
         "addressCountry": "US"
       },
       "contactPoint": {
