@@ -92,6 +92,10 @@ export default function Footer() {
                 <p className="text-slate-500 font-medium leading-relaxed">
                   Your trusted authorized partner for premium HP printing solutions. We provide genuine hardware, consumables, and expert technical support for businesses and home offices nationwide.
                 </p>
+                <div className="pt-4 flex flex-col items-start gap-3">
+                  <p className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.2em]">A subsidiary of</p>
+                  <img src="/logo/primefixsolutions-logo.png" alt="Primefix Solutions" className="h-6 md:h-7 object-contain opacity-80 hover:opacity-100 transition-opacity" />
+                </div>
               </div>
 
               <div className="space-y-4">

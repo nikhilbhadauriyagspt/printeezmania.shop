@@ -159,6 +159,7 @@ export default function Header() {
         <div className="container mx-auto px-4 flex justify-between items-center text-[11px] font-medium text-slate-400">
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-1.5 text-white/90"><CheckCircle2 size={12} className="text-[#007DBA]" /> HP Authorized Partner</span>
+            <span className="hidden lg:inline-flex items-center gap-1.5 text-slate-500 font-bold border-l border-slate-700 pl-6 uppercase tracking-wider">A subsidiary of Primefix Solutions</span>
             <span className="flex items-center gap-1.5"><CheckCircle2 size={12} className="text-[#007DBA]" /> Free Express Shipping Over $150</span>
           </div>
           <div className="flex items-center gap-6">
